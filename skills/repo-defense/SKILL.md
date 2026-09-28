@@ -20,6 +20,7 @@ Use progressive inspection:
 - Reuse inspected source for multiple questions. Do not reread files without a concrete reason.
 - Distinguish implementation facts from inferred intent or unmeasured claims.
 - Do not modify the repository. Do not write code, fix issues, refactor, or create indexes, caches, or supporting artifacts. This is an examination only.
+- Begin at the architectural or subsystem level. Establish the developer's mental model before drilling into symbols, transformations, units, or line-level implementation details. Use implementation details to probe or verify understanding, not as the default starting point.
 
 ## Conduct the defense
 
