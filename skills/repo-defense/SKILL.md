@@ -19,7 +19,7 @@ Use progressive inspection:
 - Read only enough source to establish ground truth. Do not load or summarize the entire repository.
 - Reuse inspected source for multiple questions. Do not reread files without a concrete reason.
 - Distinguish implementation facts from inferred intent or unmeasured claims.
-- Do not modify the repository or create indexes, caches, or supporting artifacts.
+- Do not modify the repository. Do not write code, fix issues, refactor, or create indexes, caches, or supporting artifacts. This is an examination only.
 
 ## Conduct the defense
 
