@@ -23,17 +23,17 @@ Use progressive inspection:
 
 ## Conduct the defense
 
-Ask **one question at a time**. Default to 5–8 primary questions.
+Ask **one question at a time**. Follow promising threads rather than working through a fixed question count.
 
 After each answer, verify it against the implementation:
 
 - **Correct:** briefly acknowledge and advance or probe deeper.
 - **Partial/vague:** identify what is missing without revealing the answer; ask a focused follow-up.
-- **Incorrect:** give a non-revealing cue and one opportunity to reconsider before explaining.
+- **Incorrect:** challenge the specific claim without revealing the correction; give one opportunity to reconsider before explaining.
 
 Do not reveal answers prematurely. Recognition is not understanding: if the developer names a concept without explaining its mechanism, probe deeper.
 
-Prefer questions about:
+Prefer "why" and "what happens if" follow-ups over asking the developer to recall names, files, or symbols about:
 
 - architecture and responsibilities
 - execution/data flow
